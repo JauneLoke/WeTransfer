@@ -25,3 +25,10 @@ Rédaction du mail en MJML.
  
         - une page permettant depuis l'ID enregistré dans la base de données, d’accéder au 
           téléchargement du fichier. le lien vers cette page est envoyé par mail
+
+
+![Accueil - Upload du fichier, dossier](https://raw.githubusercontent.com/JauneLoke/Space-Invaders/master/r&m.png)
+
+![Mail - MJML](https://raw.githubusercontent.com/JauneLoke/Space-Invaders/master/r&m1.png)
+
+![Téléchargement du fichier](https://raw.githubusercontent.com/JauneLoke/Space-Invaders/master/r&m2.png)
