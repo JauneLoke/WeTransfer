@@ -1,20 +1,18 @@
 # WeTransfer
-Créer un service similaire à wetransfer.com en insistant sur le design et l'expérience utilisateur. (Durée du projet 4jours)
+
+> 
+
+Création d'un service similaire à wetransfer.com en insistant sur le design et l'expérience utilisateur.
  
 Créer une identité propre au service
-Rester sur le principe "keep it simple"
-Logo + couleur 3 maxi (nuances autorisées) (facultatif)
-Insister sur une UX minimaliste et efficace
-Rédaction du mail avec un texte "marketing" et convivial
- 
- 
+Principe "keep it simple", UX minimaliste et efficace
+Rédaction du mail en MJML.
  
         - une page avec un formulaire :
-            - "choisissez le fichier" (upload en HTML5)
+            - email de l'émetteur
             - email du destinataire
-            - email copie
+            - dossier, fichier à envoyer
             - bouton envoyer
- 
  
         - une page intermédiaire :
             - enregistre les informations dans une base de données
@@ -25,5 +23,5 @@ Rédaction du mail avec un texte "marketing" et convivial
             - message de réussite
             - lien vers la page à copier/coller
  
-        - une page permettant depuis l'ID enregistré dans la base de données, d’accéder au
-         téléchargement du fichier. c'est le lien vers cette page qui est envoyé par mail
+        - une page permettant depuis l'ID enregistré dans la base de données, d’accéder au 
+          téléchargement du fichier. le lien vers cette page est envoyé par mail
