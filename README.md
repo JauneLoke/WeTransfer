@@ -1,6 +1,6 @@
 # WeTransfer
 
-> 
+> Durée du projet 3 jours en cours de formation
 
 Création d'un service similaire à wetransfer.com en insistant sur le design et l'expérience utilisateur.
  
