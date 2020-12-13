@@ -27,10 +27,10 @@ Rédaction du mail en MJML.
           téléchargement du fichier. le lien vers cette page est envoyé par mail
 
 
-## Accueil - Upload du fichier
+## Page d'Accueil
 ![Accueil - Upload du fichier, dossier](https://raw.githubusercontent.com/JauneLoke/WeTransfer/master/r&m.png)
 
-## Format du mail reçu par le destinataire
+## Mail MJML
 ![Mail - MJML](https://raw.githubusercontent.com/JauneLoke/WeTransfer/master/r&m1.png)
 
 ## Lien de téléchargement
